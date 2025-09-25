@@ -1,5 +1,5 @@
-https://introdu-o-ao-react-v3xn.vercel.app/
-https://introdu-o-ao-react-i5hg.vercel.app/
+ - https://introdu-o-ao-react-v3xn.vercel.app/
+ - https://introdu-o-ao-react-i5hg.vercel.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
